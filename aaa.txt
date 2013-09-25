@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Wilspsof
 
 
 
 sdfdsf
+=======
+Wilspsoqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqf
+>>>>>>> 402d9a93a02acb1305f265a08c0cbd3a018d4d17
